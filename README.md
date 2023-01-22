@@ -7,11 +7,8 @@ Welcome! This is just a simple project where I automate basic Netflix functional
 The first thing you'll need to do is create a my_secrets.py file in the root directory. This file should contain the following lines:
 
 MY_CHROMEDRIVER_PATH = "type your chromedriver path here"
-
 MY_EMAIL = "type your email here"
-
 MY_PASSWORD = "type your password here"
-
 PREFERRED_USER = ""
 
 In MY_EMAIL, you should type the email for your Netflix login
