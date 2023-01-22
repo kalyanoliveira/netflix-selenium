@@ -12,15 +12,11 @@ MY_PASSWORD = "type your password here"
 PREFERRED_USER = ""
 
 In MY_EMAIL, you should type the email for your Netflix login
-
 In MY_PASSWORD, type the password you use during your Netflix login
 
 If you have multiple users (for instance, if you share your Netflix account with other people), you can specify a PREFERRED_USER.
-
 Make sure to type your preferred user's name as accurately as possible, as it is case-sensitive
-
 If you do not share your Netflix account with anyone else, you can leave PREFERRED_USER as is
-
 Next, we'll look into the chrome driver setup.
 
 ## For Linux
