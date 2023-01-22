@@ -1,0 +1,5 @@
+__pycache__/
+logs/
+pickledcookies.pkl
+tmp/
+my_secrets.py
